@@ -19,7 +19,7 @@ I enjoy working where software engineering and human judgment meet: understandin
 - [My Portfolio](https://premdheeraj.github.io/My-Portfolio/) — animated portfolio featuring AI systems, product concepts, and engineering experience
 - [ATMOS / LIVE](https://premdheeraj.github.io/Atmos-Live/) — live global weather intelligence with animated forecasts, wind analysis, climate radar, and location search
 - Healthcare demand forecasting — monitoring health signals and supporting hospital resource planning
-- AI product concepts — Minerva, Odyssey, Custorad, Terminus, and TUN
+- AI product concepts — Minerva, Odyssey, Custorad, Terminus, TUN, Sentinal
 
 ## Let's connect
 
